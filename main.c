@@ -1,5 +1,6 @@
 #include "main.h"
 
+//this is a test of fugitive
 n nn eeee nnn, nnnnn eeeee e
 o oo eeee ooo, ooooo eeeee e
 cb cbcb eeee eeeee e
